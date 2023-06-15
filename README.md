@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kke'
 - 👀 I’m interested in web developing and cryptography
-- 🌱 I’m currently learning HTML, CSS, JS, C++, python
+- 🌱 I’m currently learning HTML, CSS, python
 - 💞️ I’m looking to collaborate on study, note taking, develope a simple web together, and so on!
 
 <!---
